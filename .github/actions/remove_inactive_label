@@ -1,9 +1,7 @@
 #!/usr/bin/env ruby
-# frozen_string_literal: true
+# frozen_string_literal: trthub"
 
-require_relative "../lib/github"
-
-stale_label_id = "LA_kwDOEfmk4M8AAAABYVCU-g"
+stale_label_id = "LA_kwDOEfmki4M8AAAABYVCU-g"
 owner = "community"
 repo = "community"
 
